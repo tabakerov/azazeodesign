@@ -1,0 +1,8 @@
+baseURL = "https://azazeo.design/"
+languageCode = "en-us"
+title = "azazeo.design"
+theme = "hugo-theme-console"
+
+[params]
+    about = "this is an about text"
+    storage = "https://azazeodesign.blob.core.windows.net/images/"
